@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vmkmanoj
-- 👀 I’m interested in python and fullstack developer
-- 🌱 I’m currently learning python
+- 👀 I’m interested fullstack developer
+- 🌱 I’m currently learning python, react ,java
 
 <!---
 Vmkmanoj/Vmkmanoj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
