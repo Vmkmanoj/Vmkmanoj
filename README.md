@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vmkmano13@gmail.com**
 
-- Resume [https://drive.google.com/file/d/1mG-rWAs8_Oov35O38hbiQuEHdF7s0JdW/view]((https://drive.google.com/file/d/1R54DlwU6xlK4XzdKi6u4fp8BsLQeQNdN/view?usp=sharing))
+- Resume [[https://drive.google.com/file/d/1mG-rWAs8_Oov35O38hbiQuEHdF7s0JdW/view]((https://drive.google.com/file/d/1R54DlwU6xlK4XzdKi6u4fp8BsLQeQNdN/view?usp=sharing))](https://drive.google.com/file/d/1R54DlwU6xlK4XzdKi6u4fp8BsLQeQNdN/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
